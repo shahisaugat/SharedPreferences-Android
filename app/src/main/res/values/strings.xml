@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SharedPref Task</string>
+    <string name="emailLabel">Email Address</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string-array name="fruitList">
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Banana</item>
+        <item>Mango</item>
+        <item>Strawberry</item>
+        <item>Grapes</item>
+        <item>Pineapple</item>
+        <item>Watermelon</item>
+        <item>Kiwi</item>
+        <item>Peach</item>
+        <item>Plum</item>
+        <item>Cherry</item>
+        <item>Blueberry</item>
+        <item>Raspberry</item>
+        <item>Blackberry</item>
+        <item>Lemon</item>
+        <item>Lime</item>
+        <item>Coconut</item>
+    </string-array>
+
+
+</resources>
